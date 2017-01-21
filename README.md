@@ -10,5 +10,5 @@
 ## AJAX 활용 싱글페이지 앱 구현
 앞서의 코드에서 다른 페이지로 이동하는 타겟 링크 부분을 이동하지 않도록 수정하고 AJAX로 HTML 문서의 부분적인 부분만 업데이트 하도록 처리
 
-■ CSS의 선택자 ‘header > ul’은 ul로 수정
-■ 기존의 index.html은 main.html으로 저장하고 서브페이지도 만든다.
+CSS의 선택자 ‘header > ul’은 ul로 수정
+기존의 index.html은 main.html으로 저장하고 서브페이지도 만든다.
